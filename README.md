@@ -44,8 +44,7 @@ lped you during the challenge. These could come in handy for anyone viewing your
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.frontendmentor.io/profile/BenChis)
+
 
 
